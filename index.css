@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Fira Code');
+
+body {
+    background-color: #d6e6ff;
+}
+
+h1 {
+    font-family: 'Fira Code';
+    color: #2e00a3;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Fira Code';
+    color: #2e00a3;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+p {
+    font-family: 'Fira Code';
+    color: #4100e6;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;    
+}
+
+label {
+    font-family: 'Fira Code';
+    color: #4100e6;
+}
+
+select {
+    font-family: 'Fira Code';
+    color: #4100e6;
+}
+
+button {
+    font-family: 'Fira Code';
+    background-color: #69a3ff; 
+    color: #2e00a3;  
+}
